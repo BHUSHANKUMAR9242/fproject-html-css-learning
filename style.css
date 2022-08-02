@@ -1,0 +1,6 @@
+body {
+    text-align: center;
+    background: linear-gradient(to bottom right, rgb(5, 69, 49), rgb(45, 34, 64));
+    background: -webkit-linear-gradient(to bottom right, rgb(5, 69, 49), rgb(45, 34, 64));
+    background: -moz-linear-gradient(to bottom right, rgb(5, 69, 49), rgb(45, 34, 64));;
+}
